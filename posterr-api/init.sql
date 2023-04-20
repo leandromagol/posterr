@@ -1,0 +1,2 @@
+CREATE USER posterr;
+ALTER USER posterr WITH SUPERUSER;
